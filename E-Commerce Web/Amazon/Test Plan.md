@@ -1,26 +1,41 @@
-# Steps to Implement
+# Test Plan (Manual Testing Amazon) 
+## Authors: Tatarintev Denis 
+## Introduction 
+This is the test plan made by Tatarintev Denis intentionally for upgrading Manual Testing skills by working with e-commerce web application: Amazon. Here will be covered most important features of the application and covered the valuable tests for app. 
 
-## Test Planning
+## Approach 
+The project has no specific SDLC (I can say it is Chaos Lifecycle) which means I'll choose the most important task and implement it. Next will be providen more details of the work:
 
+### Test items:
+**Amazon Web page** [[https://www.amazon.com/ref=nav_logo]] 
+- Login & Registration 
+- Product Search & Filtering 
+- Cart Management (Add/Remove Items) 
+- Checkout Process (Until payment)
+
+### Types of testing
 - Smoke Testing
 - Exploratory Testing
 - User Acceptance Testing
-- Functional Testing
-- Regression Testing
+- Functional Testing (every feature from test items)
+- Load Testing
 - Negative Testing
-- Accessibility Testing ?
+- Accessibility Testing 
 - Localization Testing
 
-## Test Cases
+### Item pass/fail criteria 
+**Pass**: the application works as it is expeted
 
-## Bug Report
+**Fail**: the applcation behaviour is wrong and not as expected (Error Messages, Bad Performancing) 
 
-## Test summary Report
+### Test Environment and Tools 
+2 laptops are used with Windows 10 and Windows 11 systems 
 
----
+### Schedule 
+**Time**: 2 weeks (14 days) 
 
-# Test Plan
-## What should be Tested?
-## Types of Testing
-## Deadlines for Testing
-## In & Out Criteria 
+**Start Point**: 10.04.2025 
+
+**End Point**: 24.04.2025 
+
+

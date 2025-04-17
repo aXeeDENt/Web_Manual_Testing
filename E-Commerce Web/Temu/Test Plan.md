@@ -1,0 +1,16 @@
+- Test plan identifier
+- Introduction
+- Test items
+- Features to be tested
+- Features not to be tested
+- Approach
+- Item pass/fail criteria
+- Suspension criteria and resumption requirements
+- Test deliverables
+- Testing tasks
+- Environmental needs
+- Responsibilities
+- Staffing and training needs
+- Schedule
+- Risks and contingencies
+- Approvals
