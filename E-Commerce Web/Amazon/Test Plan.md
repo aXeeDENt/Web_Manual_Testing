@@ -4,7 +4,7 @@
 This is the test plan made by Tatarintev Denis intentionally for upgrading Manual Testing skills by working with e-commerce web application: Amazon. Here will be covered most important features of the application and covered the valuable tests for app. 
 
 ## Approach 
-The project has no specific SDLC (I can say it is Chaos Lifecycle) which means I'll choose the most important task and implement it. Next will be providen more details of the work:
+This project is implemented in Waterfall Model (SDLC) which means all tasks are providen step by step. The first implemented step is writing the Test Plan for future high-quality work. ... Next will be providen more details of the work:
 
 ### Test items:
 **Amazon Web page** [[https://www.amazon.com/ref=nav_logo]] 
