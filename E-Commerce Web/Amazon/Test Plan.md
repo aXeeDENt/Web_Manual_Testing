@@ -10,7 +10,7 @@ This project is implemented in Waterfall Model (SDLC) which means all tasks are 
 
 **Step 2**: Smoke Testing
 
-**Step 3** Localization Testing - verification of posibility to change the country and region, verification of translation of basic text lines on different languages, checking the color acceptence in different countries, verification of dates, time, money currency and measure systems. 
+**Step 3** Localization Testing - verification of posibility to change the country and region, verification of translation of basic text lines on different languages, verification of dates and time formatting, money currency and measurement systems. 
 
 ### Test items:
 **Amazon Web page** [[https://www.amazon.com/ref=nav_logo]] 
