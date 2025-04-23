@@ -1,41 +1,38 @@
 # Test Plan (Manual Testing Amazon) 
 ## Authors: Tatarintev Denis 
 ## Introduction 
-This is the test plan made by Tatarintev Denis intentionally for upgrading Manual Testing skills by working with e-commerce web application: Amazon. Here will be covered most important features of the application and covered the valuable tests for app. 
+This is the test plan made by Tatarintev Denis intentionally for upgrading Manual Testing skills by working with e-commerce web application: **Amazon** [[https://www.amazon.com/ref=nav_logo]]. Here will be covered most important features of the application and covered the valuable tests for app. 
 
 ## Approach 
 This project is implemented in Waterfall Model (SDLC) which means all tasks are providen step by step. The first implemented step is writing the Test Plan for future high-quality work. ... This project provide only Black Box testing with no access for code. Will be included Test Design Techniques such as Boundary Value Analysis, Equivalence Class Partition and etc. Each Test Case will also be notes as Positive, Negative or no positivity quility depending on input it gets.
 
+### Types of testing
+- Functional (include positive and negative test)
+- Non-Functional (include positive and negative tests)
+
+### Subtypes of testing
+- Smoke Testing
+- Exploratory Testing
+- Load Testing
+- Accessibility Testing 
+- Localization Testing
+
+### Implementation Steps
 **Step 1**: Creation of Excel Tables for every type and subtype of testing, such as Localization, Smoke testing and others from the list. The queue of enwriting of test cases is not important and will be modified through the all project.
 
-**Step 2**: Smoke Testing
+**Step 2** Localization Testing - verification of posibility to change the country and region, verification of translation of basic text lines on different languages, verification of money currency and measurement systems. 
 
-**Step 3** Localization Testing - verification of posibility to change the country and region, verification of translation of basic text lines on different languages, verification of dates and time formatting, money currency and measurement systems. 
+**Step 3**: Smoke Testing - verification of core functionality of the product. Here is presented the whole list of smoke test items that will include both positive and negative approach (if it is possible)
 
-### Test items:
-**Amazon Web page** [[https://www.amazon.com/ref=nav_logo]] 
-- Login 
+### Smoke Test items:
 - Registration 
+- Log In 
 - Product Search 
 - Product Filtering 
 - Cart Management 
 - Checkout Process (without payment)
 
-### Types of testing
-- Functional
-- Non-Functional
-- Negative
-
-### Subtypes of testing
-- Smoke Testing
-- Exploratory Testing
-- User Acceptance Testing
-- Functionality Testing
-- Load Testing
-- Accessibility Testing 
-- Localization Testing
-
-### Item pass/fail criteria 
+## Item pass/fail criteria 
 **Pass**: the application works as it is expeted
 
 **Fail**: the applcation behaviour is wrong and not as expected (Error Messages, Bad Performancing) 
