@@ -18,19 +18,25 @@ This project is implemented in Waterfall Model (SDLC) which means all tasks are 
 - Localization Testing
 
 ### Implementation Steps
-**Step 1**: Creation of Excel Tables for every type and subtype of testing, such as Localization, Smoke testing and others from the list. The queue of enwriting of test cases is not important and will be modified through the all project.
+**Step 1**: Creation of Excel Tables for every type and subtype of testing, such as Localization, Smoke testing and others from the list. The queue of enwriting of test cases is not important and will be modified during the project implementation.
 
-**Step 2** Localization Testing - verification of posibility to change the country and region, verification of translation of basic text lines on different languages, verification of money currency and measurement systems. 
+**Step 2**: Smoke Testing - verification of core functionality of the product. Here is presented the whole list of smoke test items that will include both positive and negative approach (if it is possible)
 
-**Step 3**: Smoke Testing - verification of core functionality of the product. Here is presented the whole list of smoke test items that will include both positive and negative approach (if it is possible)
-
-### Smoke Test items:
+#### Smoke Test items:
 - Registration 
 - Log In 
 - Product Search 
 - Product Filtering 
 - Cart Management 
 - Checkout Process (without payment)
+
+**Step 3**: Exploratory Testing - no verification scenario, just searching and roaming through application for a period of time
+
+**Step 4**: Load Testing - verification of how fast is load speed for several pages and actions on the website
+
+**Step 5** Localization Testing - verification of posibility to change the country and region, verification of translation of basic text lines on different languages, verification of money currency and measurement systems. 
+
+**Step 6** Accessibility Testing - verification if application works properly and satisties needs of all people, including those with disabilities.
 
 ## Item pass/fail criteria 
 **Pass**: the application works as it is expeted
