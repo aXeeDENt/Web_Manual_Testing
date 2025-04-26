@@ -36,7 +36,7 @@ This project is implemented in Waterfall Model (SDLC) which means all tasks are 
 
 **Step 5** Localization Testing - verification of posibility to change the country and region, verification of translation of basic text lines on different languages, verification of money currency and measurement systems. 
 
-**Step 6** Accessibility Testing - verification if application works properly and satisties needs of all people, including those with disabilities.
+**Step 6** Accessibility Testing - verification if application works properly and satisfies needs of all people, including those with disabilities.
 
 ## Item pass/fail criteria 
 **Pass**: the application works as it is expeted
