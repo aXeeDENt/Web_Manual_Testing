@@ -1,7 +1,9 @@
 # Test Plan (Manual Testing Amazon) 
 ## Authors: Tatarintev Denis 
 ## Introduction 
-This is the test plan made by Tatarintev Denis intentionally for upgrading Manual Testing skills by working with e-commerce web application: **Amazon** [[https://www.amazon.com/ref=nav_logo]]. Here will be covered most important features of the application and covered the valuable tests for app. 
+This is the test plan made by Tatarintev Denis intentionally for upgrading Manual Testing skills by working with e-commerce web application:   
+**Amazon** [[https://www.amazon.com/ref=nav_logo]]   
+Here will be covered most important features of the application and covered the valuable tests for app. 
 
 ## Approach 
 This project is implemented in Waterfall Model (SDLC) which means all tasks are providen step by step. The first implemented step is writing the Test Plan for future high-quality work. ... This project provide only Black Box testing with no access for code. Will be included Test Design Techniques such as Boundary Value Analysis, Equivalence Class Partition and etc. Each Test Case will also be notes as Positive, Negative or no positivity quility depending on input it gets.
@@ -44,17 +46,39 @@ This project is implemented in Waterfall Model (SDLC) which means all tasks are 
 **Fail**: the applcation behaviour is wrong and not as expected (Error Messages, Bad Performancing) 
 
 ### Bug Reporting Procedure
+The bugs are reported right after all test cases were implemented.  
+Here is the sctructure of bug reporting:
+1. **Title** (outline the defect)
+2. **ID** (related to the test case)
+3. **Type** (to outline the problem)
+4. **Description** (is not necessary, only if needed) 
+5. **Steps to Reproduce** (for managing problem)
+6. **Expected Result** (what should system work like)
+7. **Actual Result** (what we get in reality)
+8. **Priority** (High, Medium, Low) -> (P1, P2, P3)
+9. **Severity** (Critical, Major, Minor, Cosmetic) -> (S1, S2, S3, S4)
+10. **Environment** (include Browser Version and Web Application Version)
+11. **Logs** (Screenshots)
+
+### Summary Reporting
+Summary Report is done at the end of the project and is a good way to track the statistics.  
+Here is the template of summary report:
+1. **Who worked on project** 
+2. **Summary** (progress/regress, critical problems)
+3. **Testing Process Description** (Methods, Technics and Tools)
+4. **Testing Time Table** (For each coworker description of duties)
+5. **Recommendations** (Status of the project and the tested system)
+6. **Bug Statistics** (a table with status of bugs, quantity and their priority)
+7. **New Bugs Found** (ID and Name)
 
 ### Test Environment and Tools 
-Windows 10 - Google Chrome
-Windows 11 - Opera GX
+Windows 10 - Google Chrome  
+Windows 11 - Opera GX  
 Android Mobile OS - Google Chrome
 
 ### Schedule 
-**Time**: 2 weeks (14 days) 
-
-**Start Point**: 10.04.2025 
-
-**End Point**: 24.04.2025 
+**Time**: 2 weeks (14 days) (May be fixed)  
+**Start Point**: 15.04.2025  
+**End Point**: 28.04.2025 
 
 
