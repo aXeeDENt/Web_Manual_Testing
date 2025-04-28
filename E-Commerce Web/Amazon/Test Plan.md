@@ -1,7 +1,7 @@
 # Test Plan (Manual Testing Amazon) 
 ## Authors: Tatarintev Denis 
 ## Introduction 
-This is the test plan made by Tatarintev Denis intentionally for upgrading Manual Testing skills by working with e-commerce web application:   
+This is the project made by Tatarintev Denis intentionally for upgrading Manual Testing skills by working with e-commerce web application:   
 **Amazon** [[https://www.amazon.com/ref=nav_logo]]   
 Here will be covered most important features of the application and covered the valuable tests for app. 
 
@@ -80,7 +80,7 @@ Android Mobile OS - Google Chrome
 
 ### Schedule 
 **Time**: 2 weeks (14 days) (May be fixed)  
-**Start Point**: 15.04.2025  
+**Start Point**: 16.04.2025  
 **End Point**: 28.04.2025 
 
 
